@@ -169,3 +169,9 @@ hr {
 .footer ul {
     padding-inline-start: 0px;
 }
+
+
+.social-img{
+    height: 40px;
+    width: 40px;
+}
