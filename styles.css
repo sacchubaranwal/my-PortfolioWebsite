@@ -72,8 +72,8 @@ hr {
 }
 
 .list-item-inline {
-    display: inline;
-    padding: 0rem 0.5rem;
+        display: inline;
+        padding: 0rem 1rem;
 }
 
 
@@ -174,4 +174,10 @@ hr {
 .social-img{
     height: 40px;
     width: 40px;
+}
+
+
+.skill-img {
+    height: 50px;
+    width: 50px;
 }
